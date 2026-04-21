@@ -20,8 +20,7 @@
 ### Demo-OrangeHRM Test Cases
 # OrangeHRM Test Cases
 
-🔗 View Live Test Case Sheet  
-([Upload your Excel/Google Sheet link here](https://docs.google.com/spreadsheets/d/1PoYUQz-SvdP5TeI7lTPnFp31k4HRKJjbpN79bKhjcHM/edit?gid=0#gid=0))
+🔗   [View Live Test Case Sheet](https://docs.google.com/spreadsheets/d/1PoYUQz-SvdP5TeI7lTPnFp31k4HRKJjbpN79bKhjcHM/edit?gid=0#gid=0)
 
 ---
 
